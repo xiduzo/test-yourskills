@@ -7,12 +7,13 @@ description: "Review the changes since a fixed point (commit, branch, tag, or
   and reports them side by side. Use when the user wants to review a branch, a
   PR, work-in-progress changes, or asks to \"review since X\"."
 metadata:
-  id: 551d3fc0-34c1-4024-ad01-79b7ca3f9cce
+  id: 539b34e1-43a7-4745-815f-6c472f4f07c1
   upstream:
     repo: mattpocock/skills
     ref: main
     sha: 3cca18b368ae95cdbdebbff572ccafa662551015
     path: skills/engineering/code-review
+  status: active
 license: MIT
 ---
 
