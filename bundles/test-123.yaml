@@ -1,0 +1,12 @@
+# This file is the bundle. Membership and the sha each member is pinned at (D10)
+# live here, reviewed in git — merging a change to it is the release.
+
+name: test-123
+description: foo bar baz
+skills:
+  - name: grilling
+    source: xiduzo/test-yourskills
+  - name: diagnosing-bugs
+    source: xiduzo/test-yourskills
+  - name: codebase-design
+    source: xiduzo/test-yourskills
